@@ -4,12 +4,12 @@
 
 Fetch repository on your local
 ```
-git fetch https://github.com/shubh2336/buzzotel.git
+git fetch https://github.com/shubh2336/MovieEngine.git
 ```
 
 Export the jar file (json-simple-1.1.jar) present in vendor directory to CLASSPATH variable
 ```
-export CLASSPATH=$CLASSPATH:<absolute_path>/buzzotel/vendor/json-simple-1.1.jar:<absolute_path>/buzzotel/vendor/json-simple-1.1.jar
+export CLASSPATH=$CLASSPATH:<absolute_path>/MovieEngine/vendor/json-simple-1.1.jar:<absolute_path>/MovieEngine/vendor/json-simple-1.1.jar
 ```
 
 Navigate to lib folder
